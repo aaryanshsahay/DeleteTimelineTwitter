@@ -1,6 +1,6 @@
 # DeleteTimelineTwitter
 ## About
-Recently discorvered that you can't delete all of your tweets in one go, rather have to delete them one by one like we're in 1846. Using this you can delete all tweets in one go (or 'n' number of tweets). This way you dont have to create a new twitter handle for every new personality you develop!
+Recently discorvered that you can't delete all of your tweets in one go, rather have to delete them one by one like we're in 1846. Using this you can delete all tweets in one go (or 'n' number of tweets). This way you dont have to create a new twitter handle for every new personality you develop.
 
 With the help of this you can :
 1. Delete 'n' tweets.
