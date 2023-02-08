@@ -28,7 +28,7 @@ With the help of this you can :
 2. Get your api keys (api & secret) & access (access & secret) from here.
 ![image](https://user-images.githubusercontent.com/53135035/217559020-db0b0ece-e73f-47f6-b32d-c2ac2a6013e8.png)
 
-For further [reference](https://developer.twitter.com/en/docs/authentication/oauth-1-0a/api-key-and-secret)
+For further [reference](https://developer.twitter.com/en/docs/authentication/oauth-1-0a/api-key-and-secret).
 
 
 
@@ -72,3 +72,5 @@ Since the max tweets which can be deleted at any moment is 3000, if you wish to 
 ## Example
 
 On running `python main.py --count 10` , the output is : `Last 10 tweets deleted succesfully!`. Verifying with my personal twitter handle, the tweets were successfully deleted.
+
+
