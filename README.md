@@ -18,6 +18,7 @@ With the help of this you can :
 1. [How to get keys & tokens](#keysandtokens)
 2. [Running Directly](#startup) 
 3. [example](#example)  
+4. [Future Work](#future)
 
 <a name="keysandtokens"/>
 
@@ -74,4 +75,11 @@ Since the max tweets which can be deleted at any moment is 3000, if you wish to 
 
 On running `python main.py --count 10` , the output is : `Last 10 tweets deleted succesfully!`. Verifying with my personal twitter handle, the tweets were successfully deleted.
 
+
+<a name="future"/>
+
+## Future Work
+
+1. Implement tqdm to show progress bar?
+2. Implement timer to show how much time the script took?
 
