@@ -40,7 +40,8 @@ For further [reference](https://developer.twitter.com/en/docs/authentication/oau
 
 
 After cloning the repository, add your api keys to the config.yaml file and then
-run :
+run : ` pip install -r requirements.txt`
+then run this command :
 `python main.py -h`
 
 the output will be :
