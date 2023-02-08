@@ -5,8 +5,7 @@
 	100% Free of cost.
 
 	Go thorugh the read me file first!!!
-	There's a guide both on how to use this for both, people who
-	dont know how to code as well as people who do know.
+	There's a guide , might save you some time.
 
 	Enjoy! 
 
