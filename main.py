@@ -5,7 +5,8 @@
 	100% Free of cost.
 
 	Go thorugh the read me file first!!!
-	There's a guide , might save you some time.
+	There's a guide both on how to use this for both, people who
+	dont know how to code as well as people who do know.
 
 	Enjoy! 
 
@@ -157,7 +158,9 @@ if __name__ == "__main__":
 
 	parser.add_argument('--count',type = int, help = "The number of tweets to be deleted (should be a positive integer)")
 	parser.add_argument('--days', type = int, help = "Delete tweets from previous days.")
-	parser.add_argument('--all', type = bool, help = "Delete all tweets, pass 'True'.")
+	parser.add_argument('--all', dest='all', 
+                    type=lambda x: bool(strtobool(x)))
+	#parser.add_argument('--all', type = str, help = "Delete all tweets, pass 'True'.")
 
 	args = parser.parse_args()
 
